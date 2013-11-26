@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   # s.osx.deployment_target = '10.7'
   s.requires_arc = true
   # s.resources = 'Assets'
-  s.source_files  = 'Common/*.{h,m}'
+  s.source_files  = 'Common/*.{h,c}'
   # s.exclude_files = ''
   # s.public_header_files = 'Classes/**/*.h'
   # s.frameworks = 'SomeFramework', 'AnotherFramework'
